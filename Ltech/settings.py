@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '0.0.0.0',
-    'the-yogify.herokuapp.com', # your herokuapp url
+    'ltech.herokuapp.com', # your herokuapp url
     '127.0.0.1',
 ]
 
