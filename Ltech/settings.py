@@ -26,7 +26,11 @@ SECRET_KEY = 'django-insecure-xktp@++n)k2rrqzvf=3a4nywe6_6m#0j*x95+ki%8euvz%0*c_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '0.0.0.0',
+    'the-yogify.herokuapp.com', # your herokuapp url
+    '127.0.0.1',
+]
 
 
 # Application definition
