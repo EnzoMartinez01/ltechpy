@@ -1,0 +1,1 @@
+web: gunicorn Ltech.wsgi 0.0.0.0:8000

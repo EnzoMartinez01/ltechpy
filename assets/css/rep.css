@@ -1,0 +1,11 @@
+.mg{
+    margin: 30px;
+}
+.backimagen{
+    background-size: cover;
+}
+.carousel-item{
+    height: 200px;
+    text-align: center;
+    background-color: darkslateblue;
+}

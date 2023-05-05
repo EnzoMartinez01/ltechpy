@@ -1,0 +1,21 @@
+.mg{
+    margin: 30px;
+    bottom: 0;
+    align-self: flex-end;
+}
+.img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 90%;
+    background-color: white;
+}
+
+.head{
+    width: 100%;
+    background-color: white;
+}
+.img1{
+    background-image: url('../img/img1.jpg');
+    background-size: cover;
+    background-position: center center;
+}
